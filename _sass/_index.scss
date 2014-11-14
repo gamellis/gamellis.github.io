@@ -1,0 +1,29 @@
+// Styles for Index Page
+
+.logo {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: $spacing-unit * 2;
+}
+
+.home-title {
+	h1,h2 {
+		text-align: center;
+		font-family: "proxima-nova",sans-serif;
+	}
+
+	h1 {
+  	
+		font-size: $base-font-size * 4;
+		font-weight: 900;
+		letter-spacing: -1px;
+		line-height: 1;
+		padding-bottom: $spacing-unit;
+		border-bottom: 1px solid $brand-color;
+	}
+
+	h2 {
+		margin-top: $spacing-unit;
+	}
+}
