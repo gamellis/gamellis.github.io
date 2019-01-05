@@ -3,11 +3,11 @@
   <channel>
     <title>Front-End Web Developer Graeme Ellis</title>
     <description>Graeme Ellis is a front-End web developer living in Comox BC.</description>
-    <link>http://graemeellis.com/</link>
-    <atom:link href="http://graemeellis.com/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://graemeellis.com/</link>
+    <atom:link href="https://graemeellis.com/feed.xml" rel="self" type="application/rss+xml" />
     <pubDate>Thu, 13 Nov 2014 23:03:42 -0800</pubDate>
     <lastBuildDate>Thu, 13 Nov 2014 23:03:42 -0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
-    
+
   </channel>
 </rss>
